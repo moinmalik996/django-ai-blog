@@ -1,0 +1,7 @@
+[project]
+name = "django-ai-blog"
+version = "1.0"
+description = "This is my personal website"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
