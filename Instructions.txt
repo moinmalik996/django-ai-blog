@@ -2,3 +2,4 @@ System Dependencies
 
 sudo apt-get install libpq-dev
 sudo apt install zlib1g-dev libjpeg-dev libpng-dev
+apt install gcc
