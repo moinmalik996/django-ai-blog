@@ -1,3 +1,3 @@
 from .base import *
 
-ALLOWED_HOSTS = [config('ALLOWED_HOSTS', cast=Csv())]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
